@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/jacob/Documents/KiCad/VFD Driver/vfd_driver.sch</source>
+    <date>Thu 23 May 2019 08:43:17 PM PDT</date>
+    <tool>Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>vfd_driver.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Barrel_Jack</value>
+      <footprint>Connect:BARREL_JACK</footprint>
+      <libsource lib="vfd_driver-rescue" part="Barrel_Jack" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0BCA26</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>74HC595</value>
+      <footprint>Housings_DIP:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="vfd_driver-rescue" part="74HC595" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B11AE10</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>74HC595</value>
+      <footprint>Housings_DIP:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="vfd_driver-rescue" part="74HC595" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B331F91</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>74HC595</value>
+      <footprint>Housings_DIP:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="vfd_driver-rescue" part="74HC595" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B3326CB</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <libsource lib="vfd_driver-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B3779B3</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <libsource lib="vfd_driver-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B386698</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <libsource lib="vfd_driver-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B3868E3</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>ULN2803A</value>
+      <footprint>Housings_DIP:DIP-18_W7.62mm_LongPads</footprint>
+      <libsource lib="vfd_driver-rescue" part="ULN2803A" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B38FBCE</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>ULN2803A</value>
+      <footprint>Housings_DIP:DIP-18_W7.62mm_LongPads</footprint>
+      <libsource lib="vfd_driver-rescue" part="ULN2803A" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B38FF22</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>74HC595</value>
+      <footprint>Housings_DIP:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="vfd_driver-rescue" part="74HC595" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B392BBC</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>ULN2803A</value>
+      <footprint>Housings_DIP:DIP-18_W7.62mm_LongPads</footprint>
+      <libsource lib="vfd_driver-rescue" part="ULN2803A" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B392BCF</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>ULN2803A</value>
+      <footprint>Housings_DIP:DIP-18_W7.62mm_LongPads</footprint>
+      <libsource lib="vfd_driver-rescue" part="ULN2803A" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B390280</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <libsource lib="vfd_driver-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B3D04F4</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>AZ1117-3.3</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-3_Horizontal_Reversed</footprint>
+      <libsource lib="vfd_driver-rescue" part="AZ1117-3.3" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B39729D</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04</value>
+      <footprint>Pin_Headers:Pin_Header_Angled_1x04_Pitch2.54mm</footprint>
+      <libsource lib="vfd_driver-rescue" part="Conn_01x04" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B3AD0B6</tstamp>
+    </comp>
+    <comp ref="RN1">
+      <value>R_Network07</value>
+      <footprint>Resistors_ThroughHole:R_Array_SIP8</footprint>
+      <libsource lib="vfd_driver-rescue" part="R_Network07" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B47F499</tstamp>
+    </comp>
+    <comp ref="RN2">
+      <value>R_Network07</value>
+      <footprint>Resistors_ThroughHole:R_Array_SIP8</footprint>
+      <libsource lib="vfd_driver-rescue" part="R_Network07" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B485922</tstamp>
+    </comp>
+    <comp ref="RN3">
+      <value>R_Network07</value>
+      <footprint>Resistors_ThroughHole:R_Array_SIP8</footprint>
+      <libsource lib="vfd_driver-rescue" part="R_Network07" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B4859DB</tstamp>
+    </comp>
+    <comp ref="RN4">
+      <value>R_Network07</value>
+      <footprint>Resistors_ThroughHole:R_Array_SIP8</footprint>
+      <libsource lib="vfd_driver-rescue" part="R_Network07" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B486329</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>FutabaVFD</value>
+      <footprint>Futaba_VFD:Futaba VFD</footprint>
+      <libsource lib="futabavfd" part="FutabaVFD" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE7C0D9</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="futabavfd" part="FutabaVFD">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FutabaVFD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Filament_A" type="input"/>
+        <pin num="2" name="Segment_F" type="input"/>
+        <pin num="3" name="Grid_1" type="input"/>
+        <pin num="4" name="Segment_M" type="input"/>
+        <pin num="5" name="Segment_E" type="input"/>
+        <pin num="6" name="Segment_L" type="input"/>
+        <pin num="7" name="Grid_2" type="input"/>
+        <pin num="8" name="Segment_P" type="input"/>
+        <pin num="9" name="Segment_K" type="input"/>
+        <pin num="10" name="Grid_3" type="input"/>
+        <pin num="11" name="Segment_J" type="input"/>
+        <pin num="12" name="Segment_D" type="input"/>
+        <pin num="13" name="Grid_4" type="input"/>
+        <pin num="14" name="Segment_O" type="input"/>
+        <pin num="15" name="No_Connect_1" type="input"/>
+        <pin num="16" name="Grid_5" type="input"/>
+        <pin num="17" name="Grid_6" type="input"/>
+        <pin num="18" name="No_Connect_2" type="input"/>
+        <pin num="19" name="Segment_C" type="input"/>
+        <pin num="20" name="Grid_7" type="input"/>
+        <pin num="21" name="Segment_I" type="input"/>
+        <pin num="22" name="Segment_N" type="input"/>
+        <pin num="23" name="Grid_8" type="input"/>
+        <pin num="24" name="Segment_G" type="input"/>
+        <pin num="25" name="Segment_H" type="input"/>
+        <pin num="26" name="Segment_B" type="input"/>
+        <pin num="27" name="Grid_9" type="input"/>
+        <pin num="28" name="Segment_A" type="input"/>
+        <pin num="29" name="Filament_B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="vfd_driver-rescue" part="74HC595">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC595</field>
+      </fields>
+      <pins>
+        <pin num="1" name="QB" type="3state"/>
+        <pin num="2" name="QC" type="3state"/>
+        <pin num="3" name="QD" type="3state"/>
+        <pin num="4" name="QE" type="3state"/>
+        <pin num="5" name="QF" type="3state"/>
+        <pin num="6" name="QG" type="3state"/>
+        <pin num="7" name="QH" type="3state"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="~QH" type="output"/>
+        <pin num="10" name="SRCLR" type="input"/>
+        <pin num="11" name="SRCLK" type="input"/>
+        <pin num="12" name="RCLK" type="input"/>
+        <pin num="13" name="G" type="input"/>
+        <pin num="14" name="SER" type="input"/>
+        <pin num="15" name="QA" type="3state"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="vfd_driver-rescue" part="AZ1117-3.3">
+      <footprints>
+        <fp>SOT?223*</fp>
+        <fp>SOT?89*</fp>
+        <fp>TO?220*</fp>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AZ1117-3.3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="vfd_driver-rescue" part="Barrel_Jack">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="vfd_driver-rescue" part="C">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="vfd_driver-rescue" part="Conn_01x04">
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="vfd_driver-rescue" part="R_Network07">
+      <footprints>
+        <fp>R?Array?SIP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">R_Network07</field>
+        <field name="Footprint">Resistors_THT:R_Array_SIP8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="common" type="passive"/>
+        <pin num="2" name="R1" type="passive"/>
+        <pin num="3" name="R2" type="passive"/>
+        <pin num="4" name="R3" type="passive"/>
+        <pin num="5" name="R4" type="passive"/>
+        <pin num="6" name="R5" type="passive"/>
+        <pin num="7" name="R6" type="passive"/>
+        <pin num="8" name="R7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="vfd_driver-rescue" part="ULN2803A">
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC-18*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ULN2803A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I1" type="input"/>
+        <pin num="2" name="I2" type="input"/>
+        <pin num="3" name="I3" type="input"/>
+        <pin num="4" name="I4" type="input"/>
+        <pin num="5" name="I5" type="input"/>
+        <pin num="6" name="I6" type="input"/>
+        <pin num="7" name="I7" type="input"/>
+        <pin num="8" name="I8" type="input"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="COM" type="passive"/>
+        <pin num="11" name="O8" type="openCol"/>
+        <pin num="12" name="O7" type="openCol"/>
+        <pin num="13" name="O6" type="openCol"/>
+        <pin num="14" name="O5" type="openCol"/>
+        <pin num="15" name="O4" type="openCol"/>
+        <pin num="16" name="O3" type="openCol"/>
+        <pin num="17" name="O2" type="openCol"/>
+        <pin num="18" name="O1" type="openCol"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="futabavfd">
+      <uri>/home/jacob/Documents/KiCad/VFD Driver/futabavfd.lib</uri>
+    </library>
+    <library logical="vfd_driver-rescue">
+      <uri>/home/jacob/Documents/KiCad/VFD Driver/vfd_driver-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C3" pin="2"/>
+      <node ref="U8" pin="9"/>
+      <node ref="C4" pin="2"/>
+      <node ref="U9" pin="1"/>
+      <node ref="U5" pin="9"/>
+      <node ref="J2" pin="4"/>
+      <node ref="J1" pin="2"/>
+      <node ref="U4" pin="13"/>
+      <node ref="U3" pin="8"/>
+      <node ref="U2" pin="13"/>
+      <node ref="U3" pin="13"/>
+      <node ref="U2" pin="8"/>
+      <node ref="J1" pin="3"/>
+      <node ref="U6" pin="9"/>
+      <node ref="U7" pin="9"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U1" pin="13"/>
+      <node ref="U4" pin="8"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="U10" pin="29"/>
+    </net>
+    <net code="2" name="Net-(U10-Pad15)">
+      <node ref="U10" pin="15"/>
+    </net>
+    <net code="3" name="Net-(U10-Pad18)">
+      <node ref="U10" pin="18"/>
+    </net>
+    <net code="4" name="/J">
+      <node ref="RN3" pin="7"/>
+      <node ref="U7" pin="11"/>
+      <node ref="U10" pin="11"/>
+    </net>
+    <net code="5" name="FILAMENT">
+      <node ref="C1" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U4" pin="10"/>
+      <node ref="U2" pin="16"/>
+      <node ref="U2" pin="10"/>
+      <node ref="U3" pin="10"/>
+      <node ref="C4" pin="1"/>
+      <node ref="U9" pin="2"/>
+      <node ref="U3" pin="16"/>
+      <node ref="U10" pin="1"/>
+      <node ref="U4" pin="16"/>
+      <node ref="U1" pin="16"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="6" name="Net-(U4-Pad7)">
+      <node ref="U4" pin="7"/>
+      <node ref="U8" pin="8"/>
+    </net>
+    <net code="7" name="Net-(U4-Pad6)">
+      <node ref="U4" pin="6"/>
+      <node ref="U8" pin="7"/>
+    </net>
+    <net code="8" name="/M">
+      <node ref="U8" pin="12"/>
+      <node ref="RN4" pin="7"/>
+      <node ref="U10" pin="4"/>
+    </net>
+    <net code="9" name="/D">
+      <node ref="RN3" pin="8"/>
+      <node ref="U7" pin="12"/>
+      <node ref="U10" pin="12"/>
+    </net>
+    <net code="10" name="Net-(RN4-Pad2)">
+      <node ref="RN4" pin="2"/>
+    </net>
+    <net code="11" name="Net-(RN4-Pad3)">
+      <node ref="RN4" pin="3"/>
+    </net>
+    <net code="12" name="Net-(RN4-Pad4)">
+      <node ref="RN4" pin="4"/>
+    </net>
+    <net code="13" name="/F">
+      <node ref="U10" pin="2"/>
+      <node ref="U5" pin="18"/>
+      <node ref="RN4" pin="5"/>
+    </net>
+    <net code="14" name="/G1">
+      <node ref="U10" pin="3"/>
+      <node ref="U8" pin="11"/>
+      <node ref="RN4" pin="6"/>
+    </net>
+    <net code="15" name="/G3">
+      <node ref="U10" pin="10"/>
+      <node ref="RN3" pin="6"/>
+      <node ref="U8" pin="18"/>
+    </net>
+    <net code="16" name="/E">
+      <node ref="U10" pin="5"/>
+      <node ref="U8" pin="13"/>
+      <node ref="RN4" pin="8"/>
+    </net>
+    <net code="17" name="/K">
+      <node ref="RN3" pin="5"/>
+      <node ref="U8" pin="17"/>
+      <node ref="U10" pin="9"/>
+    </net>
+    <net code="18" name="/P">
+      <node ref="U10" pin="8"/>
+      <node ref="RN3" pin="4"/>
+      <node ref="U8" pin="16"/>
+    </net>
+    <net code="19" name="/G2">
+      <node ref="RN3" pin="3"/>
+      <node ref="U10" pin="7"/>
+      <node ref="U8" pin="15"/>
+    </net>
+    <net code="20" name="/L">
+      <node ref="U8" pin="14"/>
+      <node ref="RN3" pin="2"/>
+      <node ref="U10" pin="6"/>
+    </net>
+    <net code="21" name="+12V">
+      <node ref="J1" pin="1"/>
+      <node ref="RN1" pin="1"/>
+      <node ref="U9" pin="3"/>
+      <node ref="RN4" pin="1"/>
+      <node ref="RN2" pin="1"/>
+      <node ref="RN3" pin="1"/>
+    </net>
+    <net code="22" name="/C">
+      <node ref="RN2" pin="6"/>
+      <node ref="U10" pin="19"/>
+      <node ref="U7" pin="17"/>
+    </net>
+    <net code="23" name="/G6">
+      <node ref="U10" pin="17"/>
+      <node ref="U7" pin="16"/>
+      <node ref="RN2" pin="5"/>
+    </net>
+    <net code="24" name="/G5">
+      <node ref="U7" pin="15"/>
+      <node ref="U10" pin="16"/>
+      <node ref="RN2" pin="4"/>
+    </net>
+    <net code="25" name="/O">
+      <node ref="U10" pin="14"/>
+      <node ref="RN2" pin="3"/>
+      <node ref="U7" pin="14"/>
+    </net>
+    <net code="26" name="/G4">
+      <node ref="U7" pin="13"/>
+      <node ref="RN2" pin="2"/>
+      <node ref="U10" pin="13"/>
+    </net>
+    <net code="27" name="/G7">
+      <node ref="U7" pin="18"/>
+      <node ref="U10" pin="20"/>
+      <node ref="RN2" pin="7"/>
+    </net>
+    <net code="28" name="/I">
+      <node ref="U10" pin="21"/>
+      <node ref="RN2" pin="8"/>
+      <node ref="U6" pin="11"/>
+    </net>
+    <net code="29" name="/N">
+      <node ref="RN1" pin="2"/>
+      <node ref="U10" pin="22"/>
+      <node ref="U6" pin="12"/>
+    </net>
+    <net code="30" name="/G8">
+      <node ref="U6" pin="13"/>
+      <node ref="RN1" pin="3"/>
+      <node ref="U10" pin="23"/>
+    </net>
+    <net code="31" name="/G">
+      <node ref="RN1" pin="4"/>
+      <node ref="U10" pin="24"/>
+      <node ref="U6" pin="14"/>
+    </net>
+    <net code="32" name="/H">
+      <node ref="U10" pin="25"/>
+      <node ref="U6" pin="15"/>
+      <node ref="RN1" pin="5"/>
+    </net>
+    <net code="33" name="/B">
+      <node ref="U10" pin="26"/>
+      <node ref="RN1" pin="6"/>
+      <node ref="U6" pin="16"/>
+    </net>
+    <net code="34" name="/G9">
+      <node ref="U10" pin="27"/>
+      <node ref="U6" pin="17"/>
+      <node ref="RN1" pin="7"/>
+    </net>
+    <net code="35" name="/A">
+      <node ref="U10" pin="28"/>
+      <node ref="RN1" pin="8"/>
+      <node ref="U6" pin="18"/>
+    </net>
+    <net code="36" name="Net-(U6-Pad10)">
+      <node ref="U6" pin="10"/>
+    </net>
+    <net code="37" name="Net-(U4-Pad15)">
+      <node ref="U4" pin="15"/>
+      <node ref="U8" pin="1"/>
+    </net>
+    <net code="38" name="Net-(U3-Pad9)">
+      <node ref="U3" pin="9"/>
+      <node ref="U4" pin="14"/>
+    </net>
+    <net code="39" name="Net-(U7-Pad10)">
+      <node ref="U7" pin="10"/>
+    </net>
+    <net code="40" name="Net-(U2-Pad1)">
+      <node ref="U6" pin="2"/>
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="41" name="LATCH">
+      <node ref="U2" pin="12"/>
+      <node ref="U3" pin="12"/>
+      <node ref="J2" pin="3"/>
+      <node ref="U1" pin="12"/>
+      <node ref="U4" pin="12"/>
+    </net>
+    <net code="42" name="DATA">
+      <node ref="J2" pin="1"/>
+      <node ref="U2" pin="14"/>
+    </net>
+    <net code="43" name="Net-(U2-Pad15)">
+      <node ref="U2" pin="15"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="44" name="Net-(U2-Pad2)">
+      <node ref="U6" pin="3"/>
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="45" name="CLOCK">
+      <node ref="U1" pin="11"/>
+      <node ref="J2" pin="2"/>
+      <node ref="U2" pin="11"/>
+      <node ref="U3" pin="11"/>
+      <node ref="U4" pin="11"/>
+    </net>
+    <net code="46" name="Net-(U4-Pad1)">
+      <node ref="U4" pin="1"/>
+      <node ref="U8" pin="2"/>
+    </net>
+    <net code="47" name="Net-(U3-Pad7)">
+      <node ref="U3" pin="7"/>
+      <node ref="U7" pin="8"/>
+    </net>
+    <net code="48" name="Net-(U3-Pad6)">
+      <node ref="U3" pin="6"/>
+      <node ref="U7" pin="7"/>
+    </net>
+    <net code="49" name="Net-(U3-Pad5)">
+      <node ref="U7" pin="6"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="50" name="Net-(U3-Pad4)">
+      <node ref="U7" pin="5"/>
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="51" name="Net-(U3-Pad3)">
+      <node ref="U7" pin="4"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="52" name="Net-(U3-Pad2)">
+      <node ref="U7" pin="3"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="53" name="Net-(U3-Pad15)">
+      <node ref="U3" pin="15"/>
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="54" name="Net-(U2-Pad9)">
+      <node ref="U2" pin="9"/>
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="55" name="Net-(U3-Pad1)">
+      <node ref="U7" pin="2"/>
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="56" name="Net-(U2-Pad7)">
+      <node ref="U6" pin="8"/>
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="57" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
+      <node ref="U6" pin="7"/>
+    </net>
+    <net code="58" name="Net-(U2-Pad5)">
+      <node ref="U2" pin="5"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="59" name="Net-(U2-Pad4)">
+      <node ref="U6" pin="5"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="60" name="Net-(U2-Pad3)">
+      <node ref="U6" pin="4"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="61" name="Net-(U8-Pad10)">
+      <node ref="U8" pin="10"/>
+    </net>
+    <net code="62" name="Net-(U4-Pad2)">
+      <node ref="U8" pin="3"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="63" name="Net-(U4-Pad3)">
+      <node ref="U4" pin="3"/>
+      <node ref="U8" pin="4"/>
+    </net>
+    <net code="64" name="Net-(U4-Pad4)">
+      <node ref="U4" pin="4"/>
+      <node ref="U8" pin="5"/>
+    </net>
+    <net code="65" name="Net-(U4-Pad5)">
+      <node ref="U8" pin="6"/>
+      <node ref="U4" pin="5"/>
+    </net>
+    <net code="66" name="Net-(U5-Pad11)">
+      <node ref="U5" pin="11"/>
+    </net>
+    <net code="67" name="Net-(U5-Pad12)">
+      <node ref="U5" pin="12"/>
+    </net>
+    <net code="68" name="Net-(U5-Pad13)">
+      <node ref="U5" pin="13"/>
+    </net>
+    <net code="69" name="Net-(U5-Pad14)">
+      <node ref="U5" pin="14"/>
+    </net>
+    <net code="70" name="Net-(U5-Pad15)">
+      <node ref="U5" pin="15"/>
+    </net>
+    <net code="71" name="Net-(U5-Pad16)">
+      <node ref="U5" pin="16"/>
+    </net>
+    <net code="72" name="Net-(U5-Pad17)">
+      <node ref="U5" pin="17"/>
+    </net>
+    <net code="73" name="Net-(U1-Pad14)">
+      <node ref="U4" pin="9"/>
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="74" name="Net-(U1-Pad15)">
+      <node ref="U5" pin="1"/>
+      <node ref="U1" pin="15"/>
+    </net>
+    <net code="75" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="76" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="77" name="Net-(U1-Pad5)">
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="78" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="79" name="Net-(U1-Pad7)">
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="80" name="Net-(U1-Pad9)">
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="81" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="82" name="Net-(U5-Pad10)">
+      <node ref="U5" pin="10"/>
+    </net>
+    <net code="83" name="Net-(U1-Pad1)">
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="84" name="Net-(U5-Pad2)">
+      <node ref="U5" pin="2"/>
+    </net>
+    <net code="85" name="Net-(U5-Pad3)">
+      <node ref="U5" pin="3"/>
+    </net>
+    <net code="86" name="Net-(U5-Pad4)">
+      <node ref="U5" pin="4"/>
+    </net>
+    <net code="87" name="Net-(U5-Pad5)">
+      <node ref="U5" pin="5"/>
+    </net>
+    <net code="88" name="Net-(U5-Pad6)">
+      <node ref="U5" pin="6"/>
+    </net>
+    <net code="89" name="Net-(U5-Pad8)">
+      <node ref="U5" pin="8"/>
+    </net>
+    <net code="90" name="Net-(U5-Pad7)">
+      <node ref="U5" pin="7"/>
+    </net>
+  </nets>
+</export>

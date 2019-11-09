@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name vfd_driver-rescue)(type Legacy)(uri ${KIPRJMOD}/vfd_driver-rescue.lib)(options "")(descr ""))
+  (lib (name 74hc595)(type Legacy)(uri ${KIPRJMOD}/74hc595.lib)(options "")(descr ""))
+  (lib (name futabavfd)(type Legacy)(uri ${KIPRJMOD}/futabavfd.lib)(options "")(descr ""))
+)
